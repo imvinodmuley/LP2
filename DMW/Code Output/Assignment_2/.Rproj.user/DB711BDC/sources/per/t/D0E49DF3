@@ -1,0 +1,32 @@
+{
+    "id": "D0E49DF3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600929592430.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "Iris.features",
+        "caption": "Iris.features",
+        "totalObservations": 150,
+        "displayedObservations": 150,
+        "variables": 4,
+        "cacheKey": "BD2329ED",
+        "object": "Iris.features",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=Iris.features&cache_key=BD2329ED&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314885616987878449,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600929592430,
+    "read_only": false,
+    "read_only_alternatives": []
+}

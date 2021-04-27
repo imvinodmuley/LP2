@@ -1,0 +1,430 @@
+Q2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritteQ2 B:
+
+
+
+
+Q3 A:
+Horizontal Decomposition
+1. Functional or horizontal decomposition is the classical top-down methodology used in the design of many autonomous robot systems.
+2. Hu and Brady describe the modules that make up the classic horizontal decomposition of a control system as follows:
+ Perception: A module to gather information from the environment.
+ Model: A module to build an environmental model from the robot’s perception of its environment.
+ Plan: A module to construct a plan of action for the robot.
+ Execute: A module that moves the robot based on the plan.
+ Motion controller: A module to provide low-level control of the robot.
+3. Within a horizontal control system the individual modules operate in a deterministic fashion.
+4. Traditional deliberative architecture is based on sensing followed by planning. This is also known as the sense-plan-act cycle.
+5. Systems that develop internal models upon which to conduct this planner are known as sense-model-plan-act or SMPA systems.
+
+Diagram
+
+Vertical Decomposition
+
+Diagram
+
+1. Whereas the horizontal or functional decomposition of the control task is based upon planning, reactive control [31], situated agents [9], embedded systems [312], motor schema [29], subsumption [99], or reflexive behavior [490] directly couple sensors and
+actuators.
+2. The reactive control paradigm is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritten by subsequent measurements.
+ Robustness. The low-level system must be relatively insensitive to conflicting, confounding, or missing data from one or more of the robots sensors.
+ Extensibility. The control system should be easily modified to deal with changes in sensor, task, or locomotive configurations.
+
+
+Q3 B:
+Mapping for a Point Robot
+m is based on animal models of intelligence – the overall action of the robot is decomposed by behavior rather than by a deliberative reasoning process.
+3. Behavior-based mechanisms were introduced to deal with a number of difficulties encountered in adapting classic planners to deal with low-level robot control. In particular, classic planners encounter difficulties with :
+ Multiple goals. Unlike classic planners, which typically attempt to satisfy some single overall goal, low-level robot control must meet several goals simultaneously
+ Multiple sensors. The sensors on a robot have real-time constraints. Data must be retrieved rapidly or they may be overwritte

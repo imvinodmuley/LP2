@@ -1,0 +1,189 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(#e0ebff,#b59ef2);
+  min-height: 600px;
+}
+
+#regForm {
+  background-color: #ffffff;
+  margin: 50px auto;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 10px;
+  padding: 40px;
+  width: 70%;
+  min-width: auto;
+  min-height: 600px;
+}
+
+.header {
+  height: 70px;
+  width: 95%;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+  margin-right:auto;
+  box-shadow: 10px;
+}
+
+h1 {
+  text-align: center;  
+}
+
+select {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 7px;
+  width: 90%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+}
+
+input {
+  margin-bottom : 10px;
+  padding: 7px;
+  width: 90%;
+  border-radius: 5px;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+}
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+  background-color: #FFEBCD;
+}
+
+/* Hide all steps by default: */
+.tab {
+  display: none;
+}
+
+.logout {
+  border: none;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  padding: 10px;
+}
+
+.tooltip-logout {
+  position: relative;
+  float: right;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.tooltip-logout .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip-logout:hover .tooltiptext {
+  visibility: visible;
+}
+
+.preview {
+  background-color: #3963e6;
+  color: #fff;
+  margin-top: 20px; 
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+  float: right;
+  margin-right: 80px; 
+  border-radius: 5px;
+}
+
+
+#regForm button {
+  background-color: #3963e6;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+  width: 100px;
+  height: 45px;
+  border-radius: 5px;
+  margin-bottom: 10px; 
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.prevBtn {
+  background-color: #3963e6;
+  border-radius: 5px;
+  width: 100px;
+  height: 45px;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #3963e6;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+.step.finish {
+  background-color: #4CAF50;
+}
+
+.inner-multidiv input {
+  width: 90%;
+}
+
+.inner-multidiv {
+  margin: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 7px;
+  box-shadow: 1px 1px 1px 1px #888888;
+}
+
+.cssanimation, .cssanimation span {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+.cssanimation span { display: inline-block }
+
+.fadeInBottom { animation-name: fadeInBottom }
+@keyframes fadeInBottom {
+    from {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to { opacity: 1 }
+}

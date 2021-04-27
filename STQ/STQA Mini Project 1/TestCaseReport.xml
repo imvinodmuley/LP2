@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllTests (3)" project="004" tests="22" started="22" failures="0" errors="0" ignored="0">
+  <testsuite name="QuizTest.AllTests" time="20.249">
+    <testsuite name="QuizTest.SignUpTest" time="1.209">
+      <testcase name="testIsValidData" classname="QuizTest.SignUpTest" time="0.0"/>
+      <testcase name="testUserSignUp" classname="QuizTest.SignUpTest" time="1.209"/>
+    </testsuite>
+    <testsuite name="QuizTest.ActiveMockTest" time="0.32">
+      <testcase name="testActivateMock" classname="QuizTest.ActiveMockTest" time="0.32"/>
+    </testsuite>
+    <testsuite name="QuizTest.DownloadNotesTest" time="1.57">
+      <testcase name="testDownloadNotes" classname="QuizTest.DownloadNotesTest" time="1.57"/>
+    </testsuite>
+    <testsuite name="QuizTest.ForgetPasswordTest" time="3.62">
+      <testcase name="testIsValidData" classname="QuizTest.ForgetPasswordTest" time="0.005"/>
+      <testcase name="testForgetPassword" classname="QuizTest.ForgetPasswordTest" time="0.054"/>
+      <testcase name="ForgetPasswordFailTest" classname="QuizTest.ForgetPasswordTest" time="3.561"/>
+    </testsuite>
+    <testsuite name="QuizTest.LeaderboardTest" time="0.316">
+      <testcase name="testLeaderboardJava" classname="QuizTest.LeaderboardTest" time="0.165"/>
+      <testcase name="testLeaderboardCpp" classname="QuizTest.LeaderboardTest" time="0.113"/>
+      <testcase name="testLeaderboardSql" classname="QuizTest.LeaderboardTest" time="0.038"/>
+    </testsuite>
+    <testsuite name="QuizTest.LoginTest" time="1.121">
+      <testcase name="testLoginUser" classname="QuizTest.LoginTest" time="0.073"/>
+      <testcase name="LoginUserFailTest" classname="QuizTest.LoginTest" time="1.048"/>
+    </testsuite>
+    <testsuite name="QuizTest.ProfileTest" time="2.121">
+      <testcase name="UpdateMobileNotest" classname="QuizTest.ProfileTest" time="0.878"/>
+      <testcase name="UpdatePasswordtest" classname="QuizTest.ProfileTest" time="0.611"/>
+      <testcase name="UpdateMobileAndPasswordtest" classname="QuizTest.ProfileTest" time="0.632"/>
+    </testsuite>
+    <testsuite name="QuizTest.ProgressBarTest" time="0.209">
+      <testcase name="testProgressBar" classname="QuizTest.ProgressBarTest" time="0.209"/>
+    </testsuite>
+    <testsuite name="QuizTest.QuestionTest" time="0.146">
+      <testcase name="AddQuestiontest" classname="QuizTest.QuestionTest" time="0.146"/>
+      <testcase name="DeleteAllQuestiontest" classname="QuizTest.QuestionTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="QuizTest.QuizQuestionTest" time="0.127">
+      <testcase name="testStartQuiz" classname="QuizTest.QuizQuestionTest" time="0.127"/>
+    </testsuite>
+    <testsuite name="QuizTest.QuizTest" time="0.043">
+      <testcase name="testStartQuiz" classname="QuizTest.QuizTest" time="0.043"/>
+    </testsuite>
+    <testsuite name="QuizTest.SaveFileTest" time="9.447">
+      <testcase name="getFileNametest" classname="QuizTest.SaveFileTest" time="0.0"/>
+      <testcase name="saveFiletest" classname="QuizTest.SaveFileTest" time="9.447"/>
+    </testsuite>
+  </testsuite>
+</testrun>
